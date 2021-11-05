@@ -1,0 +1,16 @@
+body{
+    background: gray;
+
+	padding: 0;
+	margin: 0;
+	width: 100vw;
+	height: 100vh;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+canvas{
+	background: linear-gradient(to bottom, #070B34 40%, #2B2F77 90%, #2B2F77 100%)
+}
